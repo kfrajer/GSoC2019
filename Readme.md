@@ -21,6 +21,7 @@
 * [Undo git commits](https://www.atlassian.com/git/tutorials/undoing-changes)
 
 ### Main Links
+* FAQ
 
 * [Maintenance of Android mode: SDK downloader/updater, emulator, library structure - Deeray Esvar R](https://summerofcode.withgoogle.com/dashboard/organization/5693461928345600/proposal/5271234764341248/)
 * [Android Mode Structure - Wiki](https://github.com/processing/processing-android/wiki/Android-Mode-Structure/3c8aa38b66b3ff4c88ce058273d19149b856103c)
@@ -28,7 +29,6 @@
 * [Create an Android library - Android Developers](https://developer.android.com/studio/projects/android-library)
 
 * [Android Processing's main site](https://android.processing.org/tutorials/getting_started/index.html)
-
 
 * [Building Processing for Android](https://github.com/processing/processing-android/wiki/Building-Processing-for-Android)
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Demo
+## Demonstration Using Two Emulators (AS)
 
 <h1 align="center">
     <img src="./Resources/2emu-diff-resolutions.png" alt="logo" width="620">
