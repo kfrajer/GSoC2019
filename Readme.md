@@ -30,7 +30,7 @@
 * [Android Processing's main site](https://android.processing.org/tutorials/getting_started/index.html)
 
 
-*[Building Processing for Android](https://github.com/processing/processing-android/wiki/Building-Processing-for-Android)
+* [Building Processing for Android](https://github.com/processing/processing-android/wiki/Building-Processing-for-Android)
 
 * [Build Instructions](https://github.com/processing/processing/wiki/Build-Instructions)
 
@@ -50,6 +50,6 @@
 
 * [Kotlin Native - Sarah Lensing](https://discourse.processing.org/t/new-idea-swift-playgrounds-mode-for-processing/10021/5)
 
-* [Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957
+* [Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957)
 
 
