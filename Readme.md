@@ -6,6 +6,8 @@
 
 * [Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)
 
+* [GoogleDocs Project Outline](https://docs.google.com/document/d/1U2xZHCvLO7YeiWTXDE4rCZClWvg4PHYeQuIzgxP_0c0/edit?usp=sharing)
+
 * [Google Groups Processing GSoC '19](https://groups.google.com/forum/#!forum/the-processing-foundation-google-summer-of-code-2019)
 
 * [2019 Email Announcements - GSoC](https://developers.google.com/open-source/gsoc/2019/mentor-oa-announcements)
