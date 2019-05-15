@@ -57,12 +57,12 @@
 ## Demo
 
 <h1 align="center">
-    <img src="./Resources/2emu-diff-resolutions.png" alt="logo" width="400">
+    <img src="./Resources/2emu-diff-resolutions.png" alt="logo" width="620">
   <br>
 </h1>
 
 <h1 align="center">
-    <img src="./Resources/2emu-diff-resolutions-photo.png" alt="logo" width="400">
+    <img src="./Resources/2emu-diff-resolutions-photo.png" alt="logo" width="620">
   <br>
 </h1>
 
