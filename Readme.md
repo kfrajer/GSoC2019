@@ -52,4 +52,17 @@
 
 * [Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957)
 
+---
+
+## Demo
+
+<h1 align="center">
+    <img src="./Resources/2emu-diff-resolutions.png" alt="logo" width="400">
+  <br>
+</h1>
+
+<h1 align="center">
+    <img src="./Resources/2emu-diff-resolutions-photo.png" alt="logo" width="400">
+  <br>
+</h1>
 
