@@ -50,11 +50,12 @@
 
 ### Kotlin
 
+* [P3 forum: Kotlin Native - Sarah Lensing](https://discourse.processing.org/t/new-idea-swift-playgrounds-mode-for-processing/10021/5)
+* [P3 forum: Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957)
+* [Kotlin Koans (#Learning)](https://kotlinlang.org/docs/tutorials/koans.html)
+* [Coursera Kotlin For Java (#Learning)](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome)
+* [Kotlin Tutorial (#Learning)](https://www.youtube.com/watch?v=H_oGi8uuDpA)
 * [Kotlin Forum](https://discuss.kotlinlang.org/)
-
-* [Kotlin Native - Sarah Lensing](https://discourse.processing.org/t/new-idea-swift-playgrounds-mode-for-processing/10021/5)
-
-* [Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957)
 
 ---
 
