@@ -34,19 +34,19 @@
 
 * [Android Processing's main site](https://android.processing.org/tutorials/getting_started/index.html)
 
-* [Building Processing for Android](https://github.com/processing/processing-android/wiki/Building-Processing-for-Android)
+* [Build Instructions for Processing Java](https://github.com/processing/processing/wiki/Build-Instructions)
 
-* [Build Instructions](https://github.com/processing/processing/wiki/Build-Instructions)
+* [Building Processing for Android](https://github.com/processing/processing-android/wiki/Building-Processing-for-Android)
 
 * [Processing's Project List](https://github.com/processing/processing/wiki/Project-List)
 
-* What is TestFlight?
+* ~~What is TestFlight?
 
-* [Firebase test-lab](https://firebase.google.com/docs/test-lab)
+* ~~[Firebase test-lab](https://firebase.google.com/docs/test-lab)
 
-* [Test apps on Android](https://developer.android.com/training/testing)
+* ~~[Test apps on Android](https://developer.android.com/training/testing)
 
-* Android forums
+* ~~Android forums
 
 ### Kotlin
 
