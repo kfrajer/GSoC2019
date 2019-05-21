@@ -40,13 +40,13 @@
 
 * [Processing's Project List](https://github.com/processing/processing/wiki/Project-List)
 
-* ~~What is TestFlight?
+* ~~What is TestFlight?~~
 
-* ~~[Firebase test-lab](https://firebase.google.com/docs/test-lab)
+* ~~[Firebase test-lab](https://firebase.google.com/docs/test-lab)~~
 
-* ~~[Test apps on Android](https://developer.android.com/training/testing)
+* ~~[Test apps on Android](https://developer.android.com/training/testing)~~
 
-* ~~Android forums
+* ~~Android forums~~
 
 ### Kotlin
 
