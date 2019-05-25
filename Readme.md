@@ -4,7 +4,9 @@
 
 ### Android Comms
 
-* [Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)
+* ~~[Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)~~
+
+* [Processing Foundation - GSoC '19 on Slack](https://pf-gsoc.slack.com)
 
 * [GoogleDocs Project Specs(Master)](https://docs.google.com/document/d/1U2xZHCvLO7YeiWTXDE4rCZClWvg4PHYeQuIzgxP_0c0/edit?usp=sharing)
 * [GSoC19-AMode-evolution](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)
