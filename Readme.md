@@ -16,16 +16,6 @@
 
 * [GSOC 2019 Email Announcements](https://developers.google.com/open-source/gsoc/2019/mentor-oa-announcements)
 
-### Support links
-
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-
-* [What is Google Summer of Code?](https://google.github.io/gsocguides/mentor/)
-
-* [Undo git commits](https://www.atlassian.com/git/tutorials/undoing-changes)
-
 ### Main Links
 * FAQ
 
@@ -58,6 +48,17 @@
 * [Coursera Kotlin For Java (#Learning)](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome)
 * [Kotlin Tutorial (#Learning)](https://www.youtube.com/watch?v=H_oGi8uuDpA)
 * [Kotlin Forum](https://discuss.kotlinlang.org/)
+
+
+### Support links
+
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
+* [What is Google Summer of Code?](https://google.github.io/gsocguides/mentor/)
+
+* [Undo git commits](https://www.atlassian.com/git/tutorials/undoing-changes)
 
 ---
 
