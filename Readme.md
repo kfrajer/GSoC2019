@@ -4,16 +4,15 @@
 
 ### Android Comms
 
-* ~~[Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)~~
+* [Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)
 
 * [Processing Foundation - GSoC '19 on Slack](https://pf-gsoc.slack.com)
 
 * [GoogleDocs Project Specs(Master)](https://docs.google.com/document/d/1U2xZHCvLO7YeiWTXDE4rCZClWvg4PHYeQuIzgxP_0c0/edit?usp=sharing)
+* [Emulator Report](https://docs.google.com/document/d/1enWQDOQdTQhJXq8QXedMrL2GpTELboZXxXsbYiAbim0/edit)
 * [GSoC19-AMode-evolution](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)
 * [GSoC19 - Email drafts](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)
-
 * [Google Groups Processing GSoC '19](https://groups.google.com/forum/#!forum/the-processing-foundation-google-summer-of-code-2019)
-
 * [GSOC 2019 Email Announcements](https://developers.google.com/open-source/gsoc/2019/mentor-oa-announcements)
 
 ### Main Links
@@ -40,6 +39,13 @@
 
 * ~~Android forums~~
 
+### Emulator
+* [Emulator Report](https://docs.google.com/document/d/1enWQDOQdTQhJXq8QXedMrL2GpTELboZXxXsbYiAbim0/edit)
+* [Android Developers: Using the Emulator](www.androiddocs.com/tools/devices/emulator.html)
+* [Run apps on the Android Emulator](https://developer.android.com/studio/run/emulator)
+* Current command to create a device is: `avdmanager create avd -n "processing-phone" -c "64M" -k "system-images;android-26;google_apis;x86" -d "Nexus One" -p "C:\Users\C\Documents\Processing\android\avd\processing-phone" -f`
+REF: https://github.com/processing/processing-android/blob/master/mode/src/processing/mode/android/AVD.java#L392
+
 ### Kotlin
 
 * [P3 forum: Kotlin Native - Sarah Lensing](https://discourse.processing.org/t/new-idea-swift-playgrounds-mode-for-processing/10021/5)
@@ -53,11 +59,8 @@
 ### Support links
 
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-
 * [What is Google Summer of Code?](https://google.github.io/gsocguides/mentor/)
-
 * [Undo git commits](https://www.atlassian.com/git/tutorials/undoing-changes)
 
 ---
