@@ -4,14 +4,16 @@
 
 ### Android Comms
 
-* [Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)
-
-* [Processing Foundation - GSoC '19 on Slack](https://pf-gsoc.slack.com)
 
 * [GoogleDocs Project Specs(Master)](https://docs.google.com/document/d/1U2xZHCvLO7YeiWTXDE4rCZClWvg4PHYeQuIzgxP_0c0/edit?usp=sharing)
 * [Emulator Report](https://docs.google.com/document/d/1enWQDOQdTQhJXq8QXedMrL2GpTELboZXxXsbYiAbim0/edit)
+* [Milestone 1+2 report - by Andres](https://docs.google.com/document/d/1tdC-AH0GOsqaQ9gBr-umhykaJusfnnAjuuyrYi1uL4Q/edit)
 * [GSoC19-AMode-evolution](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)
-* [GSoC19 - Email drafts](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)
+* [Journey into Kotlin](https://docs.google.com/document/d/1IYAeihpmtGYYFyJPT4tnUH85FE6BofqUYR6rO9ASf8s/edit#heading=h.dnyi0fm5lb4s)
+* ~~[GSoC19 - Email drafts](https://docs.google.com/document/d/1u9IXZOORS4hlYoRrjMZgjfqhDgHXKWgBJr7zo2oWckM/edit)~~
+
+* [Android GSoC '19 on Gitter](https://gitter.im/processing-android/GSOC18-general)
+* [Processing Foundation - GSoC '19 on Slack](https://pf-gsoc.slack.com)
 * [Google Groups Processing GSoC '19](https://groups.google.com/forum/#!forum/the-processing-foundation-google-summer-of-code-2019)
 * [GSOC 2019 Email Announcements](https://developers.google.com/open-source/gsoc/2019/mentor-oa-announcements)
 
