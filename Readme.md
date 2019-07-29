@@ -43,7 +43,7 @@
 
 ### Emulator
 * [Emulator Report](https://docs.google.com/document/d/1enWQDOQdTQhJXq8QXedMrL2GpTELboZXxXsbYiAbim0/edit)
-* [Android Developers: Using the Emulator](www.androiddocs.com/tools/devices/emulator.html)
+* [Android Developers: Using the Emulator](http://www.androiddocs.com/tools/devices/emulator.html)
 * [Run apps on the Android Emulator](https://developer.android.com/studio/run/emulator)
 * Current command to create a device is: `avdmanager create avd -n "processing-phone" -c "64M" -k "system-images;android-26;google_apis;x86" -d "Nexus One" -p "C:\Users\C\Documents\Processing\android\avd\processing-phone" -f`
 REF: https://github.com/processing/processing-android/blob/master/mode/src/processing/mode/android/AVD.java#L392
