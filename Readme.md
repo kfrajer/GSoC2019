@@ -40,6 +40,8 @@
 * ~~[Test apps on Android](https://developer.android.com/training/testing)~~
 
 * ~~Android forums~~
+* [P3 multitab project - Shader Project](https://github.com/Izza11/shader-mode)
+* [Shader in Gitter](https://gitter.im/processing-opengl/shader-editor)
 
 ### Emulator
 * [Emulator Report](https://docs.google.com/document/d/1enWQDOQdTQhJXq8QXedMrL2GpTELboZXxXsbYiAbim0/edit)
@@ -47,11 +49,13 @@
 * [Run apps on the Android Emulator](https://developer.android.com/studio/run/emulator)
 * Current command to create a device is: `avdmanager create avd -n "processing-phone" -c "64M" -k "system-images;android-26;google_apis;x86" -d "Nexus One" -p "C:\Users\C\Documents\Processing\android\avd\processing-phone" -f`
 REF: https://github.com/processing/processing-android/blob/master/mode/src/processing/mode/android/AVD.java#L392
+* [Blocking issue to use Koltin: ECJ variant used to build Android Apps(jdtCompilerAdapter)-210519](https://github.com/processing/processing/tree/master/java/mode)
 
 ### Kotlin
 
 * [P3 forum: Kotlin Native - Sarah Lensing](https://discourse.processing.org/t/new-idea-swift-playgrounds-mode-for-processing/10021/5)
 * [P3 forum: Writing Processing in Kotlin](https://discourse.processing.org/t/writing-processing-in-kotlin/3957)
+* [Sarah Lensing's repo](https://github.com/sarahlensing/processing-android)
 * [Kotlin Koans (#Learning)](https://kotlinlang.org/docs/tutorials/koans.html)
 * [Coursera Kotlin For Java (#Learning)](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome)
 * [Kotlin Tutorial (#Learning)](https://www.youtube.com/watch?v=H_oGi8uuDpA)
