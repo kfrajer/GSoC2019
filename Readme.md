@@ -6,10 +6,10 @@
 
 Below are some links that supports the full report documet. The full report explains features and expected behavior implemented in GSoC'19, current pending work, test status and future work.
 
-* [Full Report - in progress](https://docs.google.com/document/d/1TCsJgVsCsbY_62MVEzaDBhmDxVq82Qraok07_wgMoCo/edit)
+* [Full Report - in progress](https://docs.google.com/document/d/1TCsJgVsCsbY_62MVEzaDBhmDxVq82Qraok07_wgMoCo/edit?usp=sharing)
 * [Medium - draft1](https://docs.google.com/document/d/1ypJ9djcnNU_wldZ7TL6m-Xnk76G05A-vAqObjkP18d8/edit)
-* [Technical report - Aug 26th](https://docs.google.com/document/d/1cZFF9z-6qkCzReTSx5TGWOLSv70aXSdcBMB_57-YI_g/edit)
-* [GSoC19 - Emulator and Installer Test Reports - Report August 19/2019](https://docs.google.com/document/d/1Kg2pRi_fPFmrcSOqjv9yC6_BFuRgJSu3OlcDi_Teq3U/edit)
+* [Technical report - Aug 26th](https://docs.google.com/document/d/1cZFF9z-6qkCzReTSx5TGWOLSv70aXSdcBMB_57-YI_g/edit?usp=sharing)
+* [GSoC19 - Emulator and Installer Test Reports - Report August 19/2019](https://docs.google.com/document/d/1Kg2pRi_fPFmrcSOqjv9yC6_BFuRgJSu3OlcDi_Teq3U/edit?usp=sharing)
 
 ### Android Comms
 
